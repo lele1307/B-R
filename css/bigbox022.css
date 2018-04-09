@@ -1,0 +1,46 @@
+#bigbox01{
+	width: 1239px;
+	height: 1242px;
+	margin: 0 auto;
+}
+#building{
+	width: 393px;
+	height: 288px;
+	float: left;
+	margin: 0 15px 30px 0;
+}
+#people{
+	width: 393px;
+	height: 288px;
+	float: left;
+	margin: 0 15px 30px 15px;
+}
+#feast{
+	width: 393px;
+	height: 288px;
+	float: left;
+	margin: 0 0 30px 15px;
+}
+#mrxi{
+	width: 816px;
+	height: 606px;
+	float: left;
+	margin: 0 15px 30px 0;
+}
+#friend{
+	width: 393px;
+	height: 288px;
+	float: left;
+	margin: 0 0 30px 15px;
+}
+#strategy{
+	width: 393px;
+	height: 288px;
+	float: left;
+	margin: 0 0 30px 15px;
+}
+#map{
+	width: 1239px;
+	height: 288px;
+	float: left;
+}

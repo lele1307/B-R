@@ -1,0 +1,33 @@
+* {
+	margin: 0;
+	border: 0;
+	padding: 0;
+}
+body {
+	background: #ffffff;
+	font-family: Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif;
+	font: 14px/20px Arial, San-Serif;
+	color: #404040;
+}
+
+#doc { 
+	margin: 20px 40px;
+    
+}
+img#title{
+	width: 1360px;
+}
+img#camel{
+	width: 1360px;
+}
+footer {
+	width: 1360px;
+	height: 26px;
+	color: #525353;
+    margin: 0 auto;
+    text-align: center;
+    background-color: #fbeab4;
+
+}
+
+

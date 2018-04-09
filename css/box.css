@@ -1,0 +1,99 @@
+#box{
+   width: 1360px;
+   height: 345px;
+   background-image: url(lianjie.png);
+   background-repeat: no-repeat;
+   margin-top: 20px;
+   font-size: 18px;
+}
+h1{
+	margin: 40px 0 10px 50px;
+	color: #002d62;
+}
+#box0{
+	width: 745px;
+	height: 345px;
+	float: left;
+}
+#box1{
+	width: 520px;
+	height: 35px;
+	margin: 20px 40px 0 85px;
+	text-align: left;
+	padding:15px 0 0 0px;
+}
+#box2{
+	width: 520px;
+	height: 35px;
+	margin: 0px 40px 0 85px;
+	padding:30px 0 0 0px;
+	text-align: left;
+}
+ #box3{
+ 	width: 520px;
+	height: 35px;
+	margin: 0px 40px 0 85px;
+	padding:30px 0 0 0px;
+	text-align: left;
+ }
+ #box4{
+ 	width: 520px;
+	height: 35px;
+	margin: 0px 40px 0 85px;
+	padding:30px 0 0 0px;
+	text-align: left;
+ }
+ #box5{
+ 	width: 520px;
+	height: 35px;
+	margin: 0px 40px 0 85px;
+	padding:30px 0 0 0px;
+	text-align: left;
+ }
+ #box00{
+ 	float: left;
+ 	width: 615px;
+ 	height: 345px;
+
+ }
+ #box6{
+ 	float: left;
+ 	width: 520px;
+	height: 35px;
+	padding-top: 15px;
+	margin-top: 20px;
+	text-align: left;
+ }
+ #box7{
+ 	float: left;
+ 	width: 520px;
+	height: 35px;
+	padding-top: 30px;
+	text-align: left;
+ }
+ #box8{
+ 	float: left;
+ 	width: 520px;
+	height: 35px;
+	padding-top: 30px;
+	text-align: left;
+ }
+ #box9{
+ 	float: left;
+ 	width: 520px;
+	height: 35px;
+	padding-top: 30px;
+	text-align: left;
+ }
+ #box10{
+ 	float: left;
+ 	width: 520px;
+	height: 35px;
+	padding-top: 30px;
+	text-align: left;
+ }
+ a{
+ 	 text-decoration:none;
+ 	 color: #002d62;
+ }
+
