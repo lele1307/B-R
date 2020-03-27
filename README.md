@@ -1,2 +1,2 @@
-# B-R
-the Belt and Road Initiative/Web Design
+# The Belt and Road Initiative
+The Belt and Road Initiative / Web Design
